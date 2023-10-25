@@ -1,2 +1,2 @@
-# unc-f23-asm
-lab reports & assignments for Mathematics for Data Science, Data Science for Economists, and Data in Politics
+# data-science-personal
+documentation of baka's personal data science learning pathway
